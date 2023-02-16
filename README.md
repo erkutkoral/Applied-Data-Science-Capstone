@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/erkutkoral/SQLPROJECTS">
+  <a href="https://github.com/erkutkoral/Applied-Data-Science-Capstone">
     <img src="http://www.nasa.gov/sites/default/files/thumbnails/image/m19-037_0.jpg" alt="Logo" width="400" height="200">
   </a>
 
@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Used Technologies/Libraries](#built-with)
+* [Technologies-Libraries](#technologies-libraries)
 * [Roadmap](#roadmap)
 * [Authors](#authors)
 
@@ -40,7 +40,7 @@ Questions we want to answer
 All stages of the project are available part by part in this repository.
 Also, you can find the project presentation and report.
 
-## Used Technologies/Libraries
+## Technologies-Libraries
 
 * SQL, Python Integration for SQL Magic SQL Commands, sqlalchemy
 * Numpy, Pandas, Matplotlib, Seaborn, Folium, Scikit-Learn, BeautifulSoup
