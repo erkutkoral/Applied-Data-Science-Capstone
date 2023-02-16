@@ -10,16 +10,16 @@
     First Stage Landing Prediction with end-to-end Data Science Project.
     <br/>
     <br/>
-    <a href="https://github.com/erkutkoral/SQLPROJECTS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/erkutkoral/Applied-Data-Science-Capstone"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/erkutkoral/SQLPROJECTS/issues">Report Bug</a>
+    <a href="https://github.com/erkutkoral/Applied-Data-Science-Capstone/issues">Report Bug</a>
     .
-    <a href="https://github.com/erkutkoral/SQLPROJECTS/issues">Request Feature</a>
+    <a href="https://github.com/erkutkoral/Applied-Data-Science-Capstone/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/erkutkoral/SQLPROJECTS?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/SQLPROJECTS) 
+![Contributors](https://img.shields.io/github/contributors/erkutkoral/Applied-Data-Science-Capstone?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/Applied-Data-Science-Capstone) 
 
 ## Table Of Contents
 
