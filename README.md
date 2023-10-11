@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/erkutkoral/Applied-Data-Science-Capstone">
-    <img src="http://www.nasa.gov/sites/default/files/thumbnails/image/m19-037_0.jpg" alt="Logo" width="400" height="200">
+    <img src="https://media.wired.com/photos/59443cbf3cf71b16ba5b9e1d/master/w_1920,c_limit/Rocket-Art-531752474.jpg" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">SpaceX Falcon9</h3>
