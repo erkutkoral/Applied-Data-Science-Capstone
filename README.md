@@ -64,4 +64,4 @@ Also, you can find the project presentation and report.
 
 ## Authors
 
-* **Erkut Koral** - *Industrial Engineering Student* - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
+* **Erkut Koral** - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
